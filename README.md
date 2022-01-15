@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there, I'm Chandan 👋 </h1>
 
-<p align="center"> Hello! I'm Chandan, a passionate software engineer. I develop web applications. My basic skill is based on JavaScript, <a href="https://www.php.net/docs.php"> Php</a> , <a href="https://laravel.com/docs/8.x"> Laravel 8 </a> and I love to do most of the things using JavaScript. I love to make the web more open to the world.I'm currently learning <a href="https://laravel.com/docs/8.x"> Laravel 8 </a>.I am currently pursuing my bachelor's degree at <a href="https://daffodilvarsity.edu.bd/"> Daffodil International University </a>  department of Software Engineering.👌👌 </p>
+<p align="center"> Thanks for visiting my profile. I am a passionate Software Engineer. I develop Web Applications. My basic skill is based on JavaScript, <a href="https://www.php.net/docs.php"> Php</a> & <a href="https://laravel.com/docs/8.x"> Laravel </a> . I love to make the web more open to the world.
 
 Here are some ideas to get you started:
 
-- 🔥️ 2021 Goal: Contribute to Open Source Projects as much as possible
-- 🌱 I’m currently learning Php and Laravel 8 framework
+- 🔥️ 2022 Goal: Contribute to Open Source Projects as much as possible
+- 🌱 I’m currently learning JavaScript, Php & Laravel framework
 - ⚡ Fun fact: Love to learn those topics which many people don't want to learn because of difficulty
 
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-Ojha&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
