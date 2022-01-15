@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Chandan 👋 </h1>
 
-<p align="center"> Thanks for visiting my profile. I am a passionate Software Engineer. I develop Web Applications. My basic skill is based on JavaScript, <a href="https://www.php.net/docs.php"> Php</a> & <a href="https://laravel.com/docs/8.x"> Laravel </a> . I love to make the web more open to the world.
+<p align="center"> Thanks for visiting my profile. I am a passionate Software Engineer. I develop Web Applications. My basic skill is based on <a href="https://www.javascript.com/">JavaScript</a>, <a href="https://www.php.net/docs.php"> Php</a> & <a href="https://laravel.com/docs/8.x"> Laravel </a>. I love to make the web more open to the world.
 
 Here are some ideas to get you started:
 
